@@ -126,7 +126,7 @@ st.table(jogoscopa[['grupo', 'seleção1', 'seleção2', 'Vitória', 'Empate', '
 
 
 st.markdown('---')
-st.markdown('Trabalho desenvolvido no Minicurso FLAI Data Science na Copa do Mundo!')
+st.markdown('Trabalho desenvolvido de Data Science por João Eliandro na Copa do Mundo!')
 
 #bandeira1, nome1, prob, empate, prob, nome2, bandeira2
 #matriz de probabilidades do jogo
